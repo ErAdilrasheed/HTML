@@ -1,0 +1,14 @@
+Practice Question -1 
+Inspect your fevourite website and change something on the page which is displayed.
+i.e https://en.wikipedia.org/wiki/HTML
+
+to Inspect a web page right click on the page and click on the inspect.
+
+Practice Question -2
+
+Go to the your fevourite website and try to view the page source code and write the exact line of code . Does it clone the website Why?
+
+i.e   https://lochieaxon.com/
+
+Practice Question -3
+write any html code inside a text file does it works if you write using notepad.
