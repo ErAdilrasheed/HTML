@@ -1,0 +1,6 @@
+Chapter 4 Practice Question.
+
+Question-1 Create an HTML page with video embedded inside it.
+Question-2 Replace this video in I with a YouTube video.
+Question-3 Create An HTML form  for a travel website to book a vacation.
+Question-4 Create a table displaying score of cricket players in a match using HTML.
