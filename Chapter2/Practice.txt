@@ -1,0 +1,7 @@
+Chapter 2 Practice Question.
+
+Question-1 Create an HTML page with a heading (title heading), a primary heading and a subheading. Which tags did you use?
+Question-2 Create a page with 5 wallpaper images taken from the internet.
+Question-3 Use br vand hr tags to display a piece of text with linebreaks.
+Question-4 Try to write the following Chemical equation using HTML. i.e, C+O2=CO2 (use sub-script)
+Question-5 Try to write a wikipedia article using HTML.
